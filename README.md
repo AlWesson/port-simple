@@ -15,7 +15,7 @@ https://alwesson.github.io/port-simple/
 
 - Node.js
 - React.js
-- VS COde
+- VS Code
 - MUI (material ui)
 - iframe
 
