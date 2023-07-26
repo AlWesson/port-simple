@@ -4,7 +4,7 @@ import './project.css';
 import img1 from '../images/blackjack_screenshot.png'
 import img2 from '../images/Screenshot_Project1.png'
 import img3 from '../images/phish2.jpg'
-import img4 from '../images/croissant.jpg'
+import img4 from '../images/SS_p3.png'
 import img5 from '../images/eT_ucb.png'
 import img6 from '../images/scope.png'
 import { Button, MenuItem, Menu } from '@material-ui/core';
@@ -39,14 +39,14 @@ export function Projects() {
 
             <div className='pic' >
             <img src={img3} style={{width: '100%', border: 'dashed gold 4px'}}  />
-            <Button  variant='contained' className='buttn'> Placeholder </Button>
-            <Button variant='contained' className='buttnnn'> GitHub </Button>
+            <Button  variant='contained' className='buttn' > Placeholder </Button>
+            <Button variant='contained' className='buttnnn' > GitHub </Button>
             </div>
 
             <div className='pic' >
             <img src={img4} style={{width: '100%', border: 'dashed gold 4px'}}  />
-            <Button  variant='contained' className='buttn'> Placeholder </Button>
-            <Button variant='contained' className='buttnnn'> GitHub </Button>
+            <Button  variant='contained' className='buttn' href='https://social-space-615b764ada9e.herokuapp.com/login' target='_new'> Placeholder </Button>
+            <Button variant='contained' className='buttnnn' href='https://github.com/Zed-CSP/SocialNetwork' target='_new'> GitHub </Button>
             </div>
 
             <div className='pic' >
