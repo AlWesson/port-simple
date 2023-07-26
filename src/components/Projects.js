@@ -65,30 +65,3 @@ export default Projects;
 
 
 
-
-{/*  <a href={D.link} target={D.tar}></a>   onClick={handleClickOpen}*/}
- {/* onMouseEnter={e => {
-     setStyle({display: 'block'});
- }}
- onMouseLeave={e => {
-     setStyle({display: 'none'})
- }}style={style} const [style, setStyle] = React.useState();
-  */}
- {/* {data.map((D, index) => {
-    
-                 return (
-                     <div className='pic' key={index} 
-                     >style={style} 
-                        onMouseEnter={e => {
-                setStyle({display: 'block'});
-                }}
-                onMouseLeave={e => {
-                setStyle({display: 'none'})
-                }}>style={style}
-                         
-                        <Button  variant='contained' className='buttn'>  {D.title}</Button>
-                        <Button variant='contained' className='buttnnn'> GitHub </Button>
-                   </div>
-                 )
-             })}
-           */}
