@@ -45,7 +45,7 @@ export function Projects() {
 
             <div className='pic' >
             <img src={img4} style={{width: '100%', border: 'dashed gold 4px'}}  />
-            <Button  variant='contained' className='buttn' href='https://social-space-615b764ada9e.herokuapp.com/login' target='_new'> Placeholder </Button>
+            <Button  variant='contained' className='buttn' href='https://social-space-615b764ada9e.herokuapp.com/login' target='_new'> SocialSpace </Button>
             <Button variant='contained' className='buttnnn' href='https://github.com/Zed-CSP/SocialNetwork' target='_new'> GitHub </Button>
             </div>
 
