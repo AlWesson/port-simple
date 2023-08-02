@@ -23,7 +23,11 @@ export function About () {
             <Avatar alt="self" src={me} className={classes.large} style={{boxShadow: "0px 3px 3px black"}} />
             </div>
             <Typography align="center" variant="h5">
-                Full-stack developer, ready to make a difference in the industry!!
+            I'm Albert Hernandez. I'm an avid artist, programmer, and cat dad of two. 
+            I graduated from the full stack developer coding boot camp at UC Berkeley's extension in July of 2023 after getting my associates degree in computer science at the end of 2022. 
+            I am eager to further improve my skillset. 
+            I am working on my professional development by obtaining Microsoft Azure certificates at this time. I also do freelance work developing websites. 
+            I welcome the opportunity to tell you more about myself and why I'm the right fit for your company!
             </Typography>
         </div>
     )
